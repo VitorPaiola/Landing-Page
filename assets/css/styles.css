@@ -387,6 +387,10 @@ body .full-width {
         grid-template-columns: 1fr;
     }
 
+    /* .intro-text-content h2 {
+        font-size: 2rem;
+    } */
+
     .gallery-img {
         width: 100%;
         max-width: 100%;
@@ -449,3 +453,4 @@ body .full-width {
         display: none;
     }
 }
+
