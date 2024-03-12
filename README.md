@@ -1,4 +1,4 @@
-# Responsive and structured website with HTML5 and CSS3 ✨
+## Responsive and structured website with HTML5 and CSS3 ✨
 
 ### Website URL | [Website](https://structured-code.netlify.app/)
 
